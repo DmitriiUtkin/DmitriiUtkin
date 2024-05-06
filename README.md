@@ -4,7 +4,5 @@
 
 💼 You can find more about my professional background on LinkedIn https://www.linkedin.com/in/utkind/
 
-💞️ I'm open to collaborating on projects related to testing and developing high-quality software.
-
 🌍 Currently living in Montenegro.
 
