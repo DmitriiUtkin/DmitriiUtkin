@@ -6,7 +6,5 @@
 
 💞️ I'm open to collaborating on projects related to testing and developing high-quality software.
 
-📫 You can reach me via email at utkindmitrii@gmail.com
-
 🌍 Currently living in Montenegro.
 
